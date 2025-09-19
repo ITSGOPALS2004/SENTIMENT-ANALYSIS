@@ -1,0 +1,5 @@
+{
+  "name": "Customer Sentiment Analyzer",
+  "description": "An intelligent web application that uses the Gemini API to analyze customer feedback, identify sentiment (Positive, Negative, Neutral), and extract key themes from the text.",
+  "requestFramePermissions": []
+}
